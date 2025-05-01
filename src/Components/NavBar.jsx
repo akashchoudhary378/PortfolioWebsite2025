@@ -8,15 +8,13 @@ const NavBar = () => {
     <>
       <section id="home" className="pt-20">
         <div className="w-full h-[15%] sm:justify-center bg-zinc-900 sm:gap-2 flex items-center md:justify-around z-20 md:gap-40 fixed top-0 left-0">
-          <Link 
-          
-          
+          <Link
             to="home"
             spy={true}
             smooth={true}
             offset={-20}
             duration={500}
-            className="max-w-15"
+            className="max-w-15 cursor-pointer"
           >
             <img
               className="w-full h-full object-contain"
@@ -31,7 +29,7 @@ const NavBar = () => {
               smooth={true}
               offset={-20}
               duration={500}
-              className="hover:text-yellow-400 hover:border-b-2 hover:border-yellow-400 border-b-2 border-zinc-900"
+              className="hover:text-yellow-400 cursor-pointer hover:border-b-2 hover:border-yellow-400 border-b-2 border-zinc-900"
             >
               Home
             </Link>
@@ -41,7 +39,7 @@ const NavBar = () => {
               smooth={true}
               offset={-20}
               duration={500}
-              className="hover:text-yellow-400 hover:border-b-2 hover:border-yellow-400 border-b-2 border-zinc-900"
+              className="hover:text-yellow-400 cursor-pointer hover:border-b-2 hover:border-yellow-400 border-b-2 border-zinc-900"
             >
               About
             </Link>
@@ -51,7 +49,7 @@ const NavBar = () => {
               smooth={true}
               offset={-20}
               duration={500}
-              className="hover:text-yellow-400 hover:border-b-2 hover:border-yellow-400 border-b-2 border-zinc-900"
+              className="hover:text-yellow-400 cursor-pointer hover:border-b-2 hover:border-yellow-400 border-b-2 border-zinc-900"
             >
               Portfolio
             </Link>
@@ -62,7 +60,7 @@ const NavBar = () => {
             smooth={true}
             offset={-20}
             duration={500}
-            className="px-8 py-3 rounded-full font-medium bg-white text-black text-xs flex items-center gap-2"
+            className="px-8 cursor-pointer py-3 rounded-full font-medium bg-white text-black text-xs flex items-center gap-2"
           >
             {" "}
             <span className="w-4 h-4">

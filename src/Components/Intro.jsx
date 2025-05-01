@@ -25,12 +25,13 @@ const Intro = () => {
             I am a Skilled and passionate Web Developer with experience in
             creating <br /> visually appealing and user-friendly websites{" "}
           </h1>
-          <Link to='contact'
+          <Link
+            to="contact"
             spy={true}
             smooth={true}
             offset={-20}
             duration={500}
-            className="px-5 py-3 font-medium rounded-full bg-white sm:w-1/3 md:w-1/4 text-black text-sm flex justify-center items-center gap-3"
+            className="px-5 cursor-pointer py-3 font-medium rounded-full bg-white sm:w-1/3 md:w-1/4 text-black text-sm flex justify-center items-center gap-3"
           >
             {" "}
             <span className="w-4 h-4 ">
