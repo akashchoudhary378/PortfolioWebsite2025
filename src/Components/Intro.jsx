@@ -37,7 +37,7 @@ const Intro = () => {
             <span className="w-4 h-4 ">
               <img
                 className="w-full h-full object-cover"
-                src="./src/assets/hireme.png"
+                src="/assets/hireme.png"
                 alt=""
               />
             </span>

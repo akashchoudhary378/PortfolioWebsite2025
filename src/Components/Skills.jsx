@@ -19,7 +19,7 @@ const Skills = () => {
         <div className="w-10 h-10">
           <img
             className="w-full h-full object-cover"
-            src="./src/assets/Development.png"
+            src="/assets/Development.png"
             alt=""
           />
         </div>
@@ -37,7 +37,7 @@ const Skills = () => {
         <div className="w-10 h-10">
           <img
             className="w-full h-full object-cover"
-            src="./src/assets/CreativeProject.png"
+            src="/assets/CreativeProject.png"
             alt=""
           />
         </div>
@@ -54,7 +54,7 @@ const Skills = () => {
         <div className="w-10 h-10">
           <img
             className="w-full h-full object-cover"
-            src="./src/assets/MobileInterface.png"
+            src="/assets/MobileInterface.png"
             alt=""
           />
         </div>

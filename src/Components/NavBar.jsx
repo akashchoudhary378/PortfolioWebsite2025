@@ -18,7 +18,7 @@ const NavBar = () => {
           >
             <img
               className="w-full h-full object-contain"
-              src="./src/assets/logo.png"
+              src="/assets/logo.png"
               alt=""
             />
           </Link>
@@ -66,7 +66,7 @@ const NavBar = () => {
             <span className="w-4 h-4">
               <img
                 className="w-full h-full object-cover"
-                src="./src/assets/contact.png"
+                src="/assets/contact.png"
                 alt=""
               />
             </span>{" "}

@@ -21,7 +21,7 @@ const Portfolio = () => {
             <div className="w-80 h-50 bg-zinc-800  rounded-md overflow-hidden hover:scale-105">
               <img
                 className="w-full h-full "
-                src="./src/assets/BlogWebsite.png"
+                src="/assets/BlogWebsite.png"
                 alt=""
               />{" "}
             </div>
@@ -34,7 +34,7 @@ const Portfolio = () => {
             <div className="w-80 h-50 bg-zinc-800 rounded-md overflow-hidden hover:scale-105">
               <img
                 className="w-full h-full "
-                src="./src/assets/EcommerceWebsite.png"
+                src="/assets/EcommerceWebsite.png"
                 alt=""
               />{" "}
             </div>
@@ -47,7 +47,7 @@ const Portfolio = () => {
             <div className="w-80 h-50 bg-zinc-800  rounded-md overflow-hidden hover:scale-105">
               <img
                 className="w-full h-full "
-                src="./src/assets/NewsApplication.png"
+                src="/assets/NewsApplication.png"
                 alt=""
               />{" "}
             </div>
@@ -60,7 +60,7 @@ const Portfolio = () => {
             <div className="w-80 h-50 bg-zinc-800 rounded-md overflow-hidden hover:scale-105">
               <img
                 className="w-full h-full object-contain "
-                src="./src/assets/WeatherApplication.png"
+                src="/assets/WeatherApplication.png"
                 alt=""
               />{" "}
             </div>
