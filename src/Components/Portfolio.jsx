@@ -13,9 +13,9 @@ const Portfolio = () => {
             <p className="text-md lg:font-medium ">
               I Take Pride in Paying Attention to the smallest details and
               making sure that my work is pixel 
-              perfect .I am excited to bring my skills and experience to help
+              perfect . I am excited to bring my skills and experience to help
               businesses 
-              achieve their goals and create a strong online presence
+              achieve their goals and create a strong online presence.
             </p>
           </div>
         </div>
@@ -68,10 +68,10 @@ const Portfolio = () => {
               />{" "}
             </div>
             <h1 className="text-zinc-300 mt-5 font-bold">
-              Wheather Application
+              Weather Application
             </h1>
             <h1 className="text-sm font-medium text-zinc-400">
-              TechStack:-javascript, Tailwind CSS, HTML
+              TechStack:-Javascript, Tailwind CSS, HTML
             </h1>
           </div>
         </div>
