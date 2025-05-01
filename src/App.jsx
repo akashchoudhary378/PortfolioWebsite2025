@@ -9,7 +9,7 @@ import Footer from './Components/Footer'
 const App = () => {
 
   return (
-    <div className='bg-zinc-900 w-full h-full text-white'>
+    <div className='bg-zinc-900 w-full screen text-white'>
 
      <Intro/>
      <Skills/>

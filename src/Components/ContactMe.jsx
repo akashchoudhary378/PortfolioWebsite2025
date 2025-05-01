@@ -22,12 +22,12 @@ const ContactMe = () => {
           );
       };
   return (
-    <div id='contact' className="w-full h-screen flex justify-center items-center flex-col gap-5">
-      <h1 className="font-semibold text-5xl ">Contact Me</h1>
-      <span className="font-medium ">
+    <div id='contact' className="w-full h-screen flex justify-center items-center flex-col gap-5 p-5">
+      <h1 className="font-semibold text-4xl lg:text-5xl ">Contact Me</h1>
+      <span className="font-medium text-sm text-center lg:text-md ">
         Please fill out the form below to discuss any work opportunies
       </span>
-      <div className="mt-5 w-1/2">
+      <div className="mt-5 w-full lg:w-1/2">
         <form
           ref={form}
           action=""

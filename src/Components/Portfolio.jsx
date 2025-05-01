@@ -3,15 +3,18 @@ import React from 'react'
 const Portfolio = () => {
   return (
     <>
-      <section id='portfolio' className="w-full h-screen flex items-center justify-center flex-col">
+      <section
+        id="portfolio"
+        className=" w-full min-h-screen mt-10 flex items-center justify-center flex-col p-2"
+      >
         <div className="  flex items-center justify-center">
           <div className="text-center flex flex-col gap-5">
-            <h1 className="font-semibold text-5xl">My Portfolio</h1>
-            <p className="font-medium ">
+            <h1 className="font-semibold text-4xl lg:text-5xl">My Portfolio</h1>
+            <p className="text-md lg:font-medium ">
               I Take Pride in Paying Attention to the smallest details and
-              making sure that my work is pixel <br />
+              making sure that my work is pixel 
               perfect .I am excited to bring my skills and experience to help
-              businesses <br />
+              businesses 
               achieve their goals and create a strong online presence
             </p>
           </div>

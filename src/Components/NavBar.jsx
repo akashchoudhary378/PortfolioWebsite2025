@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <>
       <section id="home" className="pt-20">
-        <div className="w-full h-[15%] sm:justify-center bg-zinc-900 sm:gap-2 flex items-center md:justify-around z-20 md:gap-40 fixed top-0 left-0">
+        <div className="container py-5 flex-wrap bg-zinc-900  flex items-center justify-around z-20 gap-40 fixed top-0 left-0">
           <Link
             to="home"
             spy={true}
@@ -22,7 +22,7 @@ const NavBar = () => {
               alt=""
             />
           </Link>
-          <div className="flex items-center justify-center gap-10">
+          <div className="hidden lg:flex items-center justify-center gap-10 ">
             <Link
               to="home"
               spy={true}
@@ -60,7 +60,7 @@ const NavBar = () => {
             smooth={true}
             offset={-20}
             duration={500}
-            className="px-8 cursor-pointer py-3 rounded-full font-medium bg-white text-black text-xs flex items-center gap-2"
+            className="px-8 hidden lg:flex cursor-pointer py-3 rounded-full font-medium bg-white text-black text-xs flex items-center gap-2"
           >
             {" "}
             <span className="w-4 h-4">
