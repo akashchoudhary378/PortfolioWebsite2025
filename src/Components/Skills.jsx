@@ -3,9 +3,9 @@ import React from "react";
 const Skills = () => {
   return (
     <section id="about" className="w-full h-screen bg-zinc-900 flex flex-col justify-center items-center gap-5 p-2">
-      <div>
+     
         <h1 className="text-4xl lg:text-5xl font-semibold">What I do</h1>
-      </div>
+     
 
         <p className="text-center text-sm lg:text-md font-medium lg:w-1/2 ">
           I am a Skilled and passionate Full Web Developer with experience in

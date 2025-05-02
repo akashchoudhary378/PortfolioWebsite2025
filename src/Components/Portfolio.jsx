@@ -29,7 +29,7 @@ const Portfolio = () => {
               />{" "}
             </div>
             <h1 className="text-zinc-300 mt-5 font-bold">Blog Website</h1>
-            <h1 className="text-sm text-zinc-400 font-medium">
+            <h1 className="text-sm text-zinc-400 font-medium tracking-tighter">
               TechStack:-Node Js, Express Js, EJS, JWT
             </h1>
           </div>
@@ -42,7 +42,7 @@ const Portfolio = () => {
               />{" "}
             </div>
             <h1 className="text-zinc-300 mt-5 font-bold">E-commerce Website</h1>
-            <h1 className="text-sm font-medium text-zinc-400">
+            <h1 className="text-sm font-medium text-zinc-400 tracking-tighter">
               TechStack:-React Js, Tailwind CSS, Javascript, HTML
             </h1>
           </div>
@@ -55,7 +55,7 @@ const Portfolio = () => {
               />{" "}
             </div>
             <h1 className="text-zinc-300 mt-5 font-bold">News Application</h1>
-            <h1 className="text-sm font-medium text-zinc-400">
+            <h1 className="text-sm font-medium text-zinc-400 tracking-tighter">
               TechStack:-Javascript Js, Tailwind CSS, HTML
             </h1>
           </div>
@@ -70,7 +70,7 @@ const Portfolio = () => {
             <h1 className="text-zinc-300 mt-5 font-bold">
               Weather Application
             </h1>
-            <h1 className="text-sm font-medium text-zinc-400">
+            <h1 className="text-sm font-medium text-zinc-400 tracking-tighter">
               TechStack:-Javascript, Tailwind CSS, HTML
             </h1>
           </div>
