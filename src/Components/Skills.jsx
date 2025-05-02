@@ -8,10 +8,10 @@ const Skills = () => {
      
 
         <p className="text-center text-sm lg:text-md font-medium lg:w-1/2 ">
-          I am a Skilled and passionate Full Web Developer with experience in
+          I am a Skilled and passionate Full Stack Web Developer with experience in
           creating visually appealing and user-friendly 
           websites. I have a strong understanding of design and keen eye for
-          detail . I am Proficient int HTML, CSS, Javascript, 
+          detail . I am Proficient in HTML, CSS, Javascript, 
           React, Node JS,
         </p>
       
