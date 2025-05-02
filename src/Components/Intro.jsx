@@ -14,9 +14,9 @@ const Intro = () => {
         <div className="max-w-screen-lg w-full flex flex-col gap-6 lg:gap-6 items-center lg:items-start font-sans">
           <h1 className="text-xl lg:text-2xl">Hello,</h1>
           <h1 className="text-3xl lg:text-5xl font-bold">
-            I'm <span className="text-yellow-300">Akash Choudhary</span>
+            I'm <span className="text-yellow-300 tracking-tight">Akash Choudhary</span>
           </h1>
-          <h1 className="text-3xl lg:text-5xl font-bold">
+          <h1 className="text-3xl lg:text-5xl font-bold tracking-tight">
             Full Stack Web Developer
           </h1>
           <p className="text-md text-center lg:text-start lg:text-md lg:w-2/3 font-semibold text-zinc-300">
