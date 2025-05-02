@@ -7,7 +7,7 @@ const NavBar = () => {
   return (
     <>
       <section id="home" className="pt-20">
-        <div className="container md:mx-auto py-5 flex-wrap bg-zinc-900  flex items-center justify-around z-20 gap-40 fixed top-0 left-0">
+        <div className="container mx-auto py-5 flex-wrap bg-zinc-900  flex items-center justify-around z-20 gap-40 fixed top-0 left-0">
           <Link
             to="home"
             spy={true}
